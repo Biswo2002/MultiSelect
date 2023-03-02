@@ -1,10 +1,6 @@
 import { View, TouchableOpacity, Text, FlatList } from 'react-native';
 import React, { useState } from 'react';
 
-// type ItemType = {
-//     id: string;
-//     title: string;
-// };
 
 const items = [
     {

@@ -34,12 +34,6 @@ const name = [
 
 const Home = () => {
     const [selectItem, setSelectItem] = React.useState('')
-    // const [pratyush, setPratyush] = React.useState(false)
-    // const [rajesh, setRajesh] = React.useState(false)
-    // const [swostik, setSwostik] = React.useState(false)
-    // const [avishek, setAvishek] = React.useState(false)
-    // const [kishan, setKishan] = React.useState(false)
-    // const [chinmaya, setChinmaya] = React.useState(false)
     return (
         <SafeAreaView
             style={{ backgroundColor: '#ffff', flex: 1, }}
